@@ -1,0 +1,7 @@
+Package: com.yourname.faketimetweak
+Name: FakeTime Tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Fake time to 2000-01-01
+Section: Tweaks
+Depends: mobilesubstrate
